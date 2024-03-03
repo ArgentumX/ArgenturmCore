@@ -1,0 +1,6 @@
+name: ArgentumCore
+version: '${project.version}'
+main: com.argentumx.argentumcore.ArgentumCore
+api-version: '1.20'
+authors: [ArgentumX]
+description: minecraft abstract plugin core
